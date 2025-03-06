@@ -1,5 +1,5 @@
 import React from 'react';
-import VehicleSelector from '../components/vehiclesSelector';
+import VehicleSelector from '../screen/vehiclesSelector';
 
 const Home = () => {
     return (
