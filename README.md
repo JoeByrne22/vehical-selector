@@ -14,12 +14,31 @@ Before you begin, ensure you have met the following requirements:
 1. **Clone the repository:**
 
     ```sh
-    git clone https://github.com/your-username/your-repo-name.git
+    git clone https://github.com/JoeByrne22/vehical-selector.git
     ```
 
-2. **Navigate to the frontend directory:**
+2. **Navigate to the backend directory:**
 
     ```sh
+    cd your-repo-name/backend
+    ```
+
+3. **Install dependencies:**
+
+    ```sh
+    npm install
+    ```
+
+4. **Start the backend server:**
+
+    ```sh
+    npm start
+    ```
+    
+5. **Navigate to the frontend directory:**
+
+    ```sh
+    cd ..
     cd your-repo-name/frontend
     ```
 
